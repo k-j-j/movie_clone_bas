@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie_clone_bas/static/css/main.86a4c151.css",
+    "main.js": "/movie_clone_bas/static/js/main.d1abda89.js",
+    "index.html": "/movie_clone_bas/index.html",
+    "main.86a4c151.css.map": "/movie_clone_bas/static/css/main.86a4c151.css.map",
+    "main.d1abda89.js.map": "/movie_clone_bas/static/js/main.d1abda89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a4c151.css",
+    "static/js/main.d1abda89.js"
+  ]
+}
